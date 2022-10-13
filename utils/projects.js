@@ -2,14 +2,17 @@ const projects = {
     heading: `Things I've Worked on`,
     list: [
         {
-            image: '/assets/projects/PIAIC.png',
+            image: '/assets/projects/P1.png',
             label: 'Featured Project',
-            title: 'PIAIC Web/Portal',
-            description: 'The mission of PIAIC is to reshape Pakistan by revolutionizing education, research, and business by adopting latest, cutting-edge technologies.',
+            title: 'Final Year Project',
+            description: 'We tried our best to take the normal shopping experience websites to a whole new level by adding Augmented reality to them. We also design 3D models of our every product so users can see what exactly they are going to buy. We have created a project that can help people to shop online. It shows people how the product they are purchasing is going to look on them. Basically, it collects data in real time and combines it with products AR models. We have made both website and a mobile app for our product. It also contains four different product categories (necklaces, crowns, earrings, and glasses) that our users can enjoy. Allah Almighty and due to grace we also are nominated for the P@SHA ICT Awards 202 in the Category: Students -Tertiary',
             techs: [
-                'React Js',
-                'Express Js',
-                'Mongodb',
+                'Next Js',
+                'Firebase',
+                'Three Js',
+                'OPencv',
+                'Python',
+                '3d modeling'
             ]
         },
         {
@@ -21,39 +24,36 @@ const projects = {
                 'React Js',
                 'Express Js',
                 'GraphQl/Apollo',
-                'Mongodb',
+                'Cypress',
+                'Sass',
+                'GithubAction',
             ]
         },
         {
-            image: '/assets/projects/declinica.png',
+            image: '/assets/projects/p2.png',
             label: 'Featured Project',
-            title: 'Declinica',
-            description: 'A Decentralised blockchain Designed for the medical community.',
+            title: 'Livani Ecommerce',
+            description: 'This is a ecommerce project by using a Local Client',
             techs: [
-                'React Js',
-                'Web3 Js',
+                'Next Js',
+                'Firebase',
+                'Three Js',
+                'cloudnary', 
+                '3d modeling'
             ]
         },
         {
-            image: '/assets/projects/rolazdoro.png',
+            image: '/assets/projects/p3.png',
             label: 'Featured Project',
-            title: `Rolaz D'oro`,
-            description: `One of the main objective of Rolaz D'ORO is to make gold easily accessible to even small investors in a trusted and secure environment, with the peace of mind that their investments are traceable and could be claimed at any stated time.`,
+            title: `Dentail Portal`,
+            description: `This is a dental portal project by using a International Client`,
             techs: [
-                'React Js',
-                'Web3 Js',
+                'Next Js',
+                'Firebase',
+                'Devploment',
+                'Css',
             ]
         },
-        {
-            image: '/assets/projects/chainracers.png',
-            label: 'Featured Project',
-            title: `Chainracers`,
-            description: `ChainRacers is a play-to-earn NFT Race Battle Game. The GammaVerse, our growing MetaVerse featuring characters, worlds, arenas, and more, will kick things off with 8,888 unique generative NFT sets. Each set will include a NFT Racer and NFT Rider.`,
-            techs: [
-                'React Js',
-                'Web3 Js',
-            ]
-        }
     ]
 }
 
