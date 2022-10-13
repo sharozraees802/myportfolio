@@ -41,6 +41,15 @@ const certifications = {
         },
         {
             size: 2,
+            title: 'Cloud Native Computing and Mern Stack',
+            platform: 'Axiom Enterprises',
+            link: '',
+            date: 'Issued Dec 2020 · No Expiration DateIssued',
+            logo: '/assets/axiom.png',
+            aos: 'zoom-out-right'
+        },
+        {
+            size: 2,
             title: 'Test Automation With Cypress',
             platform: '10Pearls University',
             link: 'https://10pearlsuniversity.org/courses/test-automation-with-cypress/',
@@ -49,7 +58,7 @@ const certifications = {
             aos: 'zoom-out-left'
         },
         {
-            size: 2,
+            size: 1,
             title: 'MERN STACK MASTER',
             platform: 'Udemey',
             link: 'https://www.udemy.com/share/102Rwq3@uh2VempDVML8Xaj78F9aAWcAazn8VjdYL-q3gd7fkynFL9V2uk_MFSqoOm28pmYDgQ==/',
