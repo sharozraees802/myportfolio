@@ -2,7 +2,7 @@ import { openLink } from "./methods"
 
 const outer = {
     title1:  `G'day, I'm`,
-    title2: 'Muhammad SHeroz,',
+    title2: 'Muhammad Sheroz,',
     decrypTexts: [
         'A Software Engineer',
         'A Full Stack Developer',
