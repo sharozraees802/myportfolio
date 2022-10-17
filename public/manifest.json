@@ -1,6 +1,6 @@
 {
-  "name": "MK Portfolio",
-  "short_name": "Muneeb Khan",
+  "name": "MS Portfolio",
+  "short_name": "Muhammad Sheroz",
   "theme_color": "#ffd369",
   "background_color": "#ffd369",
   "display": "standalone",
@@ -9,47 +9,47 @@
   "start_url": "/",
   "icons": [
     {
-      "src": "icons/192.png",
+      "src": "icons/16.png",
       "sizes": "16x16",
       "type": "image/png"
     },
     {
-      "src": "icons/192.png",
+      "src": "icons/32.png",
       "sizes": "32x32",
       "type": "image/png"
     },
     {
-      "src": "icons/192.png",
+      "src": "icons/40.png",
       "sizes": "40x40",
       "type": "image/png"
     },
     {
-      "src": "icons/192.png",
+      "src": "icons/48.png",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "icons/192.png",
+      "src": "icons/72.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "icons/192.png",
+      "src": "icons/96.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "icons/192.png",
+      "src": "icons/128.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "icons/192.png",
+      "src": "icons/144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "icons/192.png",
+      "src": "icons/152.png",
       "sizes": "152x152",
       "type": "image/png"
     },
@@ -61,11 +61,6 @@
     {
       "src": "icons/384.png",
       "sizes": "384x384",
-      "type": "image/png"
-    },
-    {
-      "src": "icons/512.png",
-      "sizes": "512x512",
       "type": "image/png"
     },
     {
