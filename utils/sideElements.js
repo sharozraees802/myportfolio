@@ -5,7 +5,7 @@ const handleIconClick = (icon) => {
         'github': 'https://github.com/sharozraees802',
         'instagram': 'https://www.instagram.com/muhammadsheroz/',
         'twitter': 'https://twitter.com/sharozkhan802',
-        'linkedin': 'https://www.linkedin.com/in/muhammad-sheroz-8a553a191/',
+        'linkedin': 'https://www.linkedin.com/in/muhammadsheroz/',
     }
     openLink(links[icon])
 }
