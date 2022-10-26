@@ -1,17 +1,14 @@
 import { useEffect, useRef, useState } from "react";
 import { Parallax } from "react-scroll-parallax";
-import A from "./muneebkhanSVGs/A";
-import B from "./muneebkhanSVGs/B";
-import E1 from "./muneebkhanSVGs/E1";
-import E2 from "./muneebkhanSVGs/E2";
-import H from "./muneebkhanSVGs/H";
-import K1 from "./muneebkhanSVGs/K1";
-import K2 from "./muneebkhanSVGs/K2";
-import K3 from "./muneebkhanSVGs/K3";
 import M from "./muneebkhanSVGs/M";
-import N from "./muneebkhanSVGs/N";
-import N2 from "./muneebkhanSVGs/N2";
-import U from "./muneebkhanSVGs/U";
+import DOT from "./muneebkhanSVGs/DOT";
+import S from "./muneebkhanSVGs/S";
+import H from "./muneebkhanSVGs/H";
+import E from "./muneebkhanSVGs/E";
+import R from "./muneebkhanSVGs/R";
+import O from "./muneebkhanSVGs/O";
+import Z from "./muneebkhanSVGs/Z";
+
 
 const SvgWrapper = ({ SVG, className, ...rest }) => (
   <div
@@ -49,48 +46,32 @@ export default function MuneebKhan({ }) {
         SVG={M}
       />
       <SvgWrapper
-        className="mk_svg_U"
-        SVG={U}
+        className="mk_svg_DOT"
+        SVG={DOT}
       />
       <SvgWrapper
-        className="mk_svg_N"
-        SVG={N}
-      />
-      <SvgWrapper
-        className="mk_svg_E1"
-        SVG={E1}
-      />
-      <SvgWrapper
-        className="mk_svg_E2"
-        SVG={E2}
-      />
-      <SvgWrapper
-        className="mk_svg_B"
-        SVG={B}
-      />
-      <SvgWrapper
-        className="mk_svg_K1"
-        SVG={K1}
-      />
-      <SvgWrapper
-        className="mk_svg_K2"
-        SVG={K2}
-      />
-      <SvgWrapper
-        className="mk_svg_K3"
-        SVG={K3}
+        className="mk_svg_S"
+        SVG={S}
       />
       <SvgWrapper
         className="mk_svg_H"
         SVG={H}
       />
       <SvgWrapper
-        className="mk_svg_A"
-        SVG={A}
+        className="mk_svg_E"
+        SVG={E}
       />
       <SvgWrapper
-        className="mk_svg_N2"
-        SVG={N2}
+        className="mk_svg_R"
+        SVG={R}
+      />
+      <SvgWrapper
+        className="mk_svg_O"
+        SVG={O}
+      />
+      <SvgWrapper
+        className="mk_svg_Z"
+        SVG={Z}
       />
     </div>
   )

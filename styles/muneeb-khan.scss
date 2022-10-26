@@ -35,50 +35,50 @@ $mk-muneeb-khan-svg-transition: cubic-bezier(0.82, 0.01, 1, 0.11);
     transform-origin: center top;
     transition: all 100ms $mk-muneeb-khan-svg-transition;
 }
-.mk_svg_U {
+.mk_svg_DOT {
     transform-origin: center bottom;
     transition: all 200ms $mk-muneeb-khan-svg-transition;
 }
-.mk_svg_N {
+.mk_svg_S {
     transform-origin: center top;
     transition: all 300ms $mk-muneeb-khan-svg-transition;
 }
-.mk_svg_E1 {
-    transform-origin: right top;
+.mk_svg_H {
+    transform-origin: center top;
     transition: all 400ms $mk-muneeb-khan-svg-transition;
 }
-.mk_svg_E2 {
+.mk_svg_E {
     transform-origin: right top;
     transition: all 500ms $mk-muneeb-khan-svg-transition;
 }
-.mk_svg_B {
+.mk_svg_R {
     transform-origin: right top;
-    transition: all 600ms $mk-muneeb-khan-svg-transition;
+    transition: all 1600ms $mk-muneeb-khan-svg-transition;
 }
-.mk_svg_K1 {
+.mk_svg_O {
     transform-origin: center bottom;
     transition: all 1700ms $mk-muneeb-khan-svg-transition;
 }
-.mk_svg_K2 {
+.mk_svg_Z {
     transform-origin: right top;
     transition: all 1800ms $mk-muneeb-khan-svg-transition;
 }
-.mk_svg_K3 {
-    transform-origin: left top;
-    transition: all 1900ms $mk-muneeb-khan-svg-transition;
-}
-.mk_svg_H {
-    transform-origin: left bottom;
-    transition: all 1000ms $mk-muneeb-khan-svg-transition;
-}
-.mk_svg_A {
-    transform-origin: center bottom;
-    transition: all 1100ms $mk-muneeb-khan-svg-transition;
-}
-.mk_svg_N2 {
-    transform-origin: right bottom;
-    transition: all 1200ms $mk-muneeb-khan-svg-transition;
-}
+// .mk_svg_K3 {
+//     transform-origin: left top;
+//     transition: all 1900ms $mk-muneeb-khan-svg-transition;
+// }
+// .mk_svg_H {
+//     transform-origin: left bottom;
+//     transition: all 1000ms $mk-muneeb-khan-svg-transition;
+// }
+// .mk_svg_A {
+//     transform-origin: center bottom;
+//     transition: all 1100ms $mk-muneeb-khan-svg-transition;
+// }
+// .mk_svg_S2 {
+//     transform-origin: right bottom;
+//     transition: all 1200ms $mk-muneeb-khan-svg-transition;
+// }
 
     svg {
         // fill: white;
