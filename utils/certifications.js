@@ -67,7 +67,7 @@ const certifications = {
             aos: 'zoom-out-left'
         },
         {
-            size: 1,
+            size: 3,
             title: 'Basics Of Kubernetes',
             platform: '10Pearls University',
             link: 'https://10pearlsuniversity.org/courses/basics-of-kubernetes/',
