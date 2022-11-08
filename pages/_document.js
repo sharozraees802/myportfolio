@@ -35,7 +35,7 @@ export default function Document() {
         <link rel="apple-touch-icon" href="../public/icons/192.png"></link>
         <link rel="apple-touch-icon" href="../public/icons/192.png"></link>
 
-        <meta name="theme-color" content="#ffd369" />
+        <meta name="theme-color" content="#030708" />
       </Head>
       <body>
         <Main />

@@ -1,8 +1,8 @@
 {
   "name": "MS Portfolio",
   "short_name": "Muhammad Sheroz",
-  "theme_color": "#ffd369",
-  "background_color": "#ffd369",
+  "theme_color": "#030708",
+  "background_color": "#030708",
   "display": "standalone",
   "orientation": "portrait-primary",
   "scope": "/",
