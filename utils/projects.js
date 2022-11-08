@@ -2,7 +2,7 @@ const projects = {
     heading: `Things I've Worked on`,
     list: [
         {
-            image: '/assets/projects/P1.png',
+            image: 'https://res.cloudinary.com/lastshop802/image/upload/v1667912406/p1_lsixbp.png',
             label: 'Featured Project',
             title: 'Final Year Project',
             description: 'We tried our best to take the normal shopping experience websites to a whole new level by adding Augmented reality to them. We also design 3D models of our every product so users can see what exactly they are going to buy. We have created a project that can help people to shop online. It shows people how the product they are purchasing is going to look on them. Basically, it collects data in real time and combines it with products AR models. We have made both website and a mobile app for our product. It also contains four different product categories (necklaces, crowns, earrings, and glasses) that our users can enjoy. Allah Almighty and due to grace we also are nominated for the P@SHA ICT Awards 2022 in the Category: Students -Tertiary',
