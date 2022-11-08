@@ -3,20 +3,25 @@
 const withPWA = require("next-pwa");
 const runtimeCaching = require("next-pwa/cache");
 
-const nextConfig = {
-  reactStrictMode: true,
-  swcMinify: true,
-  experimental: {
-    images: {
-      loader: 'imgix',
-      path: 'public/assets/portfolio.gif',
-      unoptimized: true,
-    },
-  },
-  pwa: {
+// const nextConfig = {
+//   reactStrictMode: true,
+//   swcMinify: true,
+//   experimental: {
+//     images: {
+//       loader: 'imgix',
+//       path: 'public/assets/portfolio.gif',
+//       unoptimized: true,
+//     },
+//   },
+//   pwa: {
+//     dest: "public",
+//     runtimeCaching,
+//   },
+// }
+
+module.exports = withPWA({
+  
     dest: "public",
     runtimeCaching,
-  },
-}
-
-module.exports = withPWA(nextConfig);
+  
+});
