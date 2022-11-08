@@ -4,7 +4,7 @@ const withPWA = require("next-pwa");
 const runtimeCaching = require("next-pwa/cache");
 
 const nextConfig = {
-  reactStrictMode: false,
+  reactStrictMode: true,
   swcMinify: true,
   experimental: {
     images: {
