@@ -9,7 +9,7 @@ const outer = {
         'A Three.js Developer',
         // 'A Traveler',
     ],
-    desciption: `A dedicated and disciplined Full Stack engineer who love to create things for internet, having more than 2 years of field experience I've delivered projects to many happy clients over globe.`,
+    desciption: `A dedicated and disciplined Full Stack engineer who loves to create things for the internet. With more than 2 years of field experience, I've delivered projects to many happy clients worldwide.`,
     button: {
         label: 'Contact me!',
         onClick: () => openLink('mailto:sherozkhan802@gmail.com?subject=Hello')
